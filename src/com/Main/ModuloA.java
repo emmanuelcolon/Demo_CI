@@ -11,6 +11,6 @@ public class ModuloA {
 
     public int return_num(){
 
-        return 1;
+        return -1;
     }
 }

@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91bb35b5-3784-4379-bfb3-c1c4adee5f77" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/Main/ModuloA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/Main/ModuloA_Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/Main/ModuloB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/Main/ModuloB_Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ejemplo_CI.iml" afterPath="$PROJECT_DIR$/Ejemplo_CI.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/Main/ModuloA.java" afterPath="$PROJECT_DIR$/src/com/Main/ModuloA.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/Main/ModuloA_Test.java" afterPath="$PROJECT_DIR$/src/com/Main/ModuloA_Test.java" />
     </list>
     <ignored path="Ejemplo_CI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,9 +45,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Main/ModuloA.java" />
         <option value="$PROJECT_DIR$/src/com/Main/ModuloB.java" />
         <option value="$PROJECT_DIR$/src/com/Main/ModuloB_Test.java" />
+        <option value="$PROJECT_DIR$/src/com/Main/ModuloA.java" />
         <option value="$PROJECT_DIR$/src/com/Main/ModuloA_Test.java" />
       </list>
     </option>
@@ -463,6 +459,14 @@
       <option name="presentableId" value="Default" />
       <updated>1464832438370</updated>
     </task>
+    <task id="LOCAL-00001" summary="Agregue 4 Clases para probar el push y el jenkins">
+      <created>1464835647330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1464835647330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -509,6 +513,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregue 4 Clases para probar el push y el jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregue 4 Clases para probar el push y el jenkins" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -523,16 +531,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Main/ModuloA_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,18 +552,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Main/ModuloA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Main/ModuloA_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Main/ModuloA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
           <folding />
         </state>
       </provider>

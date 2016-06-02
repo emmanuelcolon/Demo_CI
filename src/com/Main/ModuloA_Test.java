@@ -15,7 +15,7 @@ public class ModuloA_Test {
 
         ModuloA moduloa = new ModuloA();
 
-        assertEquals("El resultado debe ser 1",1,moduloa.return_num());
+        assertEquals("El resultado debe ser -1",-1,moduloa.return_num());
 
     }
 
@@ -25,7 +25,7 @@ public class ModuloA_Test {
 
         ModuloA moduloa = new ModuloA();
 
-        assertEquals("El resultado debe ser 2",2,moduloa.return_num() + 1);
+        assertEquals("El resultado debe ser 0",0,moduloa.return_num() + 1);
 
     }
 }
