@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91bb35b5-3784-4379-bfb3-c1c4adee5f77" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/Main/Main.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ejemplo_CI.iws" />
@@ -24,7 +24,20 @@
     <favorites_list name="Ejemplo_CI" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ModuloA_Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Main/ModuloA_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/com/Main/ModuloB_Test.java" />
         <option value="$PROJECT_DIR$/src/com/Main/ModuloA.java" />
         <option value="$PROJECT_DIR$/src/com/Main/ModuloA_Test.java" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
       </list>
     </option>
   </component>
@@ -125,7 +139,7 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="RunManager" selected="JUnit.ModuloB_Test.test">
+  <component name="RunManager" selected="JUnit.ModuloA_Test.test2">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.Main.Main" />
@@ -441,8 +455,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ModuloB_Test.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ModuloA_Test.test2" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ModuloA_Test.test2" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ModuloB_Test.test" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.ModuloA_Test.test" />
       </list>
     </recent_temporary>
@@ -472,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464835945752</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Borre el Main">
+      <created>1464838081327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1464838081327</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -480,6 +501,9 @@
       <configuration name="ModuloA_Test.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ModuloA_Test_test2 - 2016.06.01 at 22h 38m 30s.xml">
+      <configuration name="ModuloA_Test.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModuloA_Test_test2 - 2016.06.02 at 00h 01m 56s.xml">
       <configuration name="ModuloA_Test.test2" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ModuloB_Test_test - 2016.06.01 at 22h 44m 00s.xml">
@@ -491,7 +515,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -505,7 +529,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -525,7 +549,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Agregue 4 Clases para probar el push y el jenkins" />
     <MESSAGE value="Cambiamos lo que retorna el modulo A, y pasaron todas las pruebas pero no nos percatamos que el moduloo B depende el modulo A" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambiamos lo que retorna el modulo A, y pasaron todas las pruebas pero no nos percatamos que el moduloo B depende el modulo A" />
+    <MESSAGE value="Borre el Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Borre el Main" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -560,16 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Main/ModuloA_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Main/ModuloA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -582,6 +597,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Main/ModuloA_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
